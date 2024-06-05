@@ -1,0 +1,9 @@
+jupyterlab==4.2.1
+ipykernel==6.29.4
+matplotlib==3.8.4
+ydata_profiling==4.8.3
+scikit-learn==1.5.0
+itables==2.1.0
+ipywidgets==8.1.2
+#Pillow==10.2.0
+numpy==1.24.1
