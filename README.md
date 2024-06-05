@@ -1,8 +1,6 @@
 # B-YOND at Sharkfest US 2024
 This repository contains the notebooks, code and documentation for B-YOND workshop **"Enhancing Wi-Fi Networks with AI: A Deep Dive into Machine Learning for Wi-Fi Health Checks"** at Sharkfest US 2024.
 
-The data used in this workshop is kept in this separate [repository](https://github.com/b-yond-infinite-network/sharkfest-us-2024-data).
-
 ## Pre-Requisites
 - A basic understanding of programming in Python
 - Familiarity with Jupyter notebooks , if you haven't used Jupyter notebooks before please check [this tutorial](https://www.datacamp.com/tutorial/installing-jupyter-notebook) ahead of the workshop.
