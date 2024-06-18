@@ -13,7 +13,7 @@ We will run this workshop on [Google Colab](https://colab.google):
   * Requires a google account
 
   
-* Slide Deck is available for download on [this link](TODO: ADD LINK)
+* Slide Deck is available for download on Discord Wireshark server channel: #ai-integration
 
 #### Step 1: Logging into Google Colab
 * Go to [Google Colab](https://colab.research.google.com/).
