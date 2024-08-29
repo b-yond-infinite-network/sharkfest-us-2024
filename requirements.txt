@@ -1,4 +1,4 @@
-jupyterlab==4.2.1
+jupyterlab==4.2.5
 ipykernel==6.29.4
 matplotlib==3.8.4
 ydata_profiling==4.8.3
